@@ -41,7 +41,7 @@ div.name
     width: 100%;
     padding: 30px;
     font-size: 2em;
-    background: -webkit-repeating-linear-gradient(rgb(139, 39, 9), rgb(197, 92, 7));
+    background: -webkit-repeating-linear-gradient(rgb(81, 14, 112), rgb(187, 105, 39));
     color: red;
     background-clip: border-box;
     text-align: center;
