@@ -186,7 +186,7 @@ input[type=checkbox]~span{
         top: 0;
         left: -65%;
         min-width: 160px;
-        min-height: 160px;
+        min-height: 170px;
         position: absolute;
         border-radius: 0px 0px 40px 0px;
         background: url(./R.jpg) no-repeat center/cover;
