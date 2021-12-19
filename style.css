@@ -184,6 +184,7 @@ input[type=checkbox]~span{
         padding: 18px;
         position: relative;
         margin-bottom: 10px;
+        text-align: start;
     }
     div.name::before{
         content: '';
