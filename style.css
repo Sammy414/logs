@@ -175,7 +175,7 @@ input[type=checkbox]~span{
     
     div.name{
         width: 60%;
-        justify-content: flex-end;
+        justify-content: center;
         align-content: center;
         margin-left: 40%;
         font-size: 1.4rem;
@@ -185,6 +185,9 @@ input[type=checkbox]~span{
         position: relative;
         margin-bottom: 10px;
         text-align: start;
+        flex-direction: column;
+        display: flex;
+
     }
     div.name::before{
         content: '';
