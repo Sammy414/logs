@@ -60,7 +60,6 @@ div.img
     /* border: 10px solid rgba(255, 0, 0, 0); */
     border-radius: 0% 0% 100px 0%;
     overflow: hidden;
-    box-shadow: inset 10px 10px 10px 10px red;
 }
 
 img
