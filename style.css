@@ -178,14 +178,14 @@ input[type=checkbox]~span{
         justify-content: flex-end;
         margin-left: 40%;
         font-size: 1.4rem;
-        min-height: 150px;
+        min-height: 140px;
         position: relative;
     }
     div.name::before{
         content: '';
         top: 0;
         left: -65%;
-        min-width: 160px;
+        min-width: 170px;
         min-height: 170px;
         position: absolute;
         border-radius: 0px 0px 40px 0px;
